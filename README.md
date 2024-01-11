@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharti Rana</h1>
-<h2 align="center">A Passionate Frontend Developer from India</h2>
+<h2 align="center">A Passionate Backend Developer from India</h2>
 
 ## About me:
 
